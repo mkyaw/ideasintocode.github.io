@@ -3,7 +3,7 @@ description: Myo's Coding Blog
 meta_description: "Blogging about things a full stack developer encounter"
 
 markdown: kramdown
-highlighter: rogue
+# highlighter: rogue
 logo: false
 paginate: 15
 baseurl: /
