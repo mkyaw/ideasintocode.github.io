@@ -6,7 +6,7 @@ markdown: kramdown
 # highlighter: rogue
 logo: false
 paginate: 15
-baseurl: 'http://mkyaw.github.io'
+baseurl: 'http://mkyaw.github.io/'
 domain_name: 'http://mkyaw.github.io'
 google_analytics: ''
 gems: [jekyll-paginate]
