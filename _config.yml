@@ -2,7 +2,7 @@ name: Myo's Coding Blog
 description: Myo's Coding Blog
 meta_description: "Blogging about things a full stack developer encounter"
 
-# markdown: kramdown
+markdown: kramdown
 highlighter: rogue
 logo: false
 paginate: 15
