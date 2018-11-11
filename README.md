@@ -1,3 +1,3 @@
-# mkyaw.github.io
+# ideasintocode.com
 
-## A blog built using Jekyll and GitHub Pages
+## Where Your Ideas Are Transformed Into Code
