@@ -15,4 +15,4 @@ gems: [jekyll-paginate]
 url:            'http://mkyaw.github.io'
 author:         'Myo Kyaw'
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
