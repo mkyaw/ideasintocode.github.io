@@ -14,3 +14,5 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'http://mkyaw.github.io'
 author:         'Myo Kyaw'
+
+theme: jekyll-theme-cayman
